@@ -1,6 +1,3 @@
-
-<p align="center"><img src="https://i.gifer.com/7jjk.gif" width="100%" height="auto"/></p>
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FFF7&width=435&lines=On+Journey+to+be+a+Great+Hacker" alt="Typing SVG" /></a>
 </div>
