@@ -20,7 +20,7 @@ I'm **[`Rohit`](https://www.linkedin.com/in/rohitmaity/)**, a hacker & Security 
 - **Name**: Rohit Maity
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **Programmer**
-- i have experience in Bug Hunting, Coding.
+- I have experience in Bug Hunting, Coding.
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything**
 
