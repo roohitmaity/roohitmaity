@@ -6,6 +6,3 @@ An Security Researcher and aspiring offensive Security engineer, Bug Hunter. Wit
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmaity/)
-[![YouTube](https://img.shields.io/badge/YouTube-d50000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@therohitshowz)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rohit_maity_1)
-
