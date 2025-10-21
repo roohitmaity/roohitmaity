@@ -40,14 +40,14 @@ With a strong passion for technology and expertise in web-app pentesting, vulner
 
 
 
----
+<!--
 
 ## 📊 GitHub Stats  
 
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roohitmaity&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roohitmaity&layout=compact&theme=tokyonight)
 
----
+-->
 
 ## ⚔️ CTF Platforms  
 
