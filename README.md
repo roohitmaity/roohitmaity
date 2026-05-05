@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Maity  
 
-💻 **Security Researcher** | 🐍 **Aspiring Offensive Security Engineer** | 🐞 **Bug Hunter**  
+💻 **Security Researcher** | 🐞 **Bug Hunter**  
 
 With a strong passion for technology and expertise in web-app pentesting, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to the online community.
 
