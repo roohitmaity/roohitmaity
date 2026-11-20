@@ -5,7 +5,7 @@ Security researcher working on Android, Web security. Also, have hands-on experi
 ## Tools
 
 - [PhiWatch (Email Phishing Analyzer)](https://github.com/roohitmaity/PhiWatch) - Anti-Phishing, Monitoring and Threat Intelligence toolkit
-
+- [Static Malware Analyzer](https://github.com/roohitmaity/static_malware-analyzer.git) - It analyzes PE files , a static malware analyzer
 
 ## Articles
 
@@ -16,8 +16,10 @@ Security researcher working on Android, Web security. Also, have hands-on experi
 ## Teaching
 
 - Blog: [Medium](https://medium.com/@rohitmaity001)
+- LinkedIn: [rohitmaity](https://www.linkedin.com/in/rohitmaity)
 
 ## Contact
 
+- Portfolio: [Website](https://roohitmaity.github.io/portfolio/)
 - LinkedIn: [rohitmaity](https://www.linkedin.com/in/rohitmaity)
 - Email: [E-Mail](rohit.maity.hkr@gmail.com)
